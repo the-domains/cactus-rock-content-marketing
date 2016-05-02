@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cactus Rock Content Marketing]]></title>
         <description><![CDATA[Cactus Rock Content Marketing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cactus-rock-content-marketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 18:58:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 18:59:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cactus-rock-content-marketing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97abd67a-f4e2-4491-86b2-923fbb816faa.jpg">]]></description>
+            <link>https://thegrid.ai/cactus-rock-content-marketing/how-do-we-promote-your-tourism-business-or-destination-cact/index.html</link>
+            <guid isPermaLink="false">e1ffcf25-2758-462d-9155-518d2a8ab612</guid>
+            <pubDate>Mon, 02 May 2016 18:58:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who is Cactus Rock?]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5f23b0e-0291-41a5-a38d-e59ec6c7fd3f.jpg">]]></description>
-            <link>undefinedwho-is-cactus-rock/index.html</link>
+            <link>https://thegrid.ai/cactus-rock-content-marketing/who-is-cactus-rock/index.html</link>
             <guid isPermaLink="false">e7a4add8-bf39-4252-9049-59ecf5971df6</guid>
             <pubDate>Mon, 02 May 2016 18:58:54 GMT</pubDate>
         </item>
