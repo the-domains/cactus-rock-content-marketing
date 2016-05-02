@@ -1,14 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: "Cactus Rock specializes in tourism marketing for small businesses and destinations that don't have big marketing budgets. We target specific segments of the traveling public with a strong presence among Mexican, American and Canadian travelers. "
-datePublished: '2016-05-02T18:58:54.423Z'
-dateModified: '2016-05-02T18:41:49.813Z'
+datePublished: '2016-05-02T19:21:23.272Z'
+dateModified: '2016-05-02T19:20:33.853Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-02-cactus-rock-specializes-in-tourism-marketing-for-small-busin.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-cactus-rock-specializes-in-tourism-marketing-for-small-busin.md
-published: true
 url: cactus-rock-specializes-in-tourism-marketing-for-small-busin/index.html
 _type: Article
 
